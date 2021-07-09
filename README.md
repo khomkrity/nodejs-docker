@@ -22,7 +22,7 @@ npm start
 docker pull omekrit/simple-web
 
 # start the app
-docker run -p 8080:8080 omekri/simple-web
+docker run -p 8080:8080 omekrit/simple-web
 ```
 
 ## Containerization
